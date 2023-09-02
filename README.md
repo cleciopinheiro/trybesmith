@@ -37,7 +37,7 @@ To run the application, start by making a clone of this repository with the comm
     
 Navigate to the project root.
 
-    cd trybesmith-api/
+    cd trybesmith
     
 <details>
    <summary><strong>Running locally</strong></summary> 
